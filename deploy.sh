@@ -3,7 +3,7 @@ cd ~
 
 rm -rf goproxy-heroku
 
-git clone https://github.com/VerSign010/goproxy-heroku.git
+git clone https://github.com/Lhboysdfgh/goproxy-h.git
 
 cd goproxy-heroku
 
